@@ -1,0 +1,9 @@
+Action: AAPL, Date: 2024-09-13, Price: 650.48
+Action: GOOGL, Date: 2024-09-13, Price: 1315.16
+Action: AMZN, Date: 2024-09-13, Price: 763.31
+Action: AAPL, Date: 2024-09-14, Price: 1085.31
+Action: GOOGL, Date: 2024-09-14, Price: 864.67
+Action: AMZN, Date: 2024-09-14, Price: 1175.3
+Action: AAPL, Date: 2024-09-15, Price: 143.05
+Action: GOOGL, Date: 2024-09-15, Price: 735.2
+Action: AMZN, Date: 2024-09-15, Price: 178.3
